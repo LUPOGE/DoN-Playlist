@@ -1,3 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro Tv
-https://list.iptvcat.com/my_list/s/dc75a7eaeddc30ad405261e8c5bbe415.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82659?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV
+http://iptv.csserv.co:8000/live/clientr725/631739/3353.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV SD
+http://iptv.csserv.co:8000/live/clientr725/631739/8403.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV HD
+http://new-pro.tv:8080/golden_eagle/khalid/21075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV International
+http://new-pro.tv:8080/golden_eagle/khalid/21074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV International
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV International RO
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/25524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV backup
+http://new-pro.tv:8080/golden_eagle/khalid/21045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV backup
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro_TV
+http://www.zizoiptv.com:8000/live/arbcamd/122197/6359.ts?checkedby:iptvcat.com
