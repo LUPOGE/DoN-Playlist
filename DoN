@@ -1,31 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Pro TV HD
-http://new-pro.tv:8080/golden_eagle/khalid/21075?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",PRO TV
-http://iptv.csserv.co:8000/live/clientr725/631739/3353.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Pro TV International
-http://new-pro.tv:8080/golden_eagle/khalid/21074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Prima TV RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/773?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Antena 1 HD
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Digi 4K UHD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/74061?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",FilmBox Premium RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/77665?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",HBO 1 FHD RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/74105?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",HBO 1 RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/801?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",HBO 2 HD
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21095?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Kanal D
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/21092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",National TV RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/811?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Pro-X RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",Romania TV RO
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/777?checkedby:iptvcat.co
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Soarec_Puiu",E! Entertainment 4K
-http://new-pro.tv:8080/golden_eagle/khalid/145786?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV
+http://televizoro.tk:25461/roforum.net/roforum.net/18178?checkedby:iptvcat.com
